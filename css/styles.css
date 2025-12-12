@@ -87,6 +87,7 @@ ul {
   letter-spacing: 0.04em;
   color: #fff;
   background: #4d5ae5;
+  cursor: pointer;
 }
 .btn-service:hover,
 .btn-service:focus {
