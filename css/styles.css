@@ -1,11 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
-  background: #fff;
-}
-
-p {
   color: #434455;
+  background: #fff;
 }
 
 a {
@@ -116,7 +112,6 @@ ul {
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 .team {
@@ -153,7 +148,6 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #434455;
 }
 
 .portfolio-title {
@@ -184,7 +178,6 @@ ul {
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 /* ------Footer------ */
