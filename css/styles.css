@@ -4,6 +4,10 @@ body {
   background: #fff;
 }
 
+p {
+  color: #434455;
+}
+
 a {
   text-decoration: none;
 }
