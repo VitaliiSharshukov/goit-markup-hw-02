@@ -46,12 +46,15 @@ ul {
 .nav-title:hover {
   color: #404bbf;
 }
+.nav-title:focus {
+  color: #404bbf;
+}
 
-.adress {
+.address {
   font-style: normal;
 }
 
-.adress-link {
+.address-link {
   font-weight: 400;
   font-size: 16px;
   /* line-height: 24px; */
@@ -59,8 +62,8 @@ ul {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.adress-link:hover,
-.adress-link:focus {
+.address-link:hover,
+.address-link:focus {
   color: #404bbf;
 }
 
@@ -129,7 +132,7 @@ ul {
   background: #fff;
 }
 
-.team-cards-subtiteles {
+.team-cards-subtitles {
   font-weight: 500;
   font-size: 20px;
   /* line-height: 24px; */
@@ -162,7 +165,7 @@ ul {
   background: #fff;
 }
 
-.fportfolio-subtitle {
+.portfolio-subtitle {
   font-weight: 500;
   font-size: 20px;
   /* line-height: 24px; */
@@ -171,7 +174,7 @@ ul {
   color: #2e2f42;
 }
 
-.fportfolio-text {
+.portfolio-text {
   font-weight: 400;
   font-size: 16px;
   /* line-height: 24px; */
