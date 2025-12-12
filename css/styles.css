@@ -13,7 +13,7 @@ ul {
 }
 
 /* ------------logo-------------*/
-.nav-logo {
+.header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -24,7 +24,7 @@ ul {
   color: #2e2f42;
 }
 
-.header-logo {
+.header-part-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -93,7 +93,7 @@ ul {
   background: #404bbf;
 }
 
-.gen-thrd-title {
+.features-title {
   font-weight: 500;
   font-size: 20px;
   /* line-height: 24px; */
@@ -102,7 +102,7 @@ ul {
   color: #2e2f42;
 }
 
-.gen-thrd-text {
+.features-text {
   font-weight: 400;
   font-size: 16px;
   /* line-height: 24px; */
@@ -115,7 +115,7 @@ ul {
   background: #f4f4fd;
 }
 
-.second-title {
+.team-title {
   font-size: 36px;
   /* line-height: 40px; */
   line-height: 1.11;
@@ -148,9 +148,38 @@ ul {
   color: #434455;
 }
 
+.portfolio-title {
+  font-size: 36px;
+  /* line-height: 40px; */
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
 .project-cards {
   background: #fff;
 }
+
+.fportfolio-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  /* line-height: 24px; */
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.fportfolio-text {
+  font-weight: 400;
+  font-size: 16px;
+  /* line-height: 24px; */
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* ------Footer------ */
 
 .footer {
   background: #2e2f42;
